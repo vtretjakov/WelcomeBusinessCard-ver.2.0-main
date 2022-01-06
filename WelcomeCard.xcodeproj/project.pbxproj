@@ -62,7 +62,6 @@
 		C4C3576C26A989C400DEC203 /* WelcomeCard */ = {
 			isa = PBXGroup;
 			children = (
-				C4C3578126A9A71500DEC203 /* Screenshots */,
 				C4C3576D26A989C400DEC203 /* AppDelegate.swift */,
 				C4C3576F26A989C400DEC203 /* SceneDelegate.swift */,
 				C4FD7345278744FF0003100D /* ViewController.swift */,
@@ -70,6 +69,7 @@
 				C4C3577626A989C500DEC203 /* Assets.xcassets */,
 				C4C3577826A989C500DEC203 /* LaunchScreen.storyboard */,
 				C4C3577B26A989C500DEC203 /* Info.plist */,
+				C4C3578126A9A71500DEC203 /* Screenshots */,
 			);
 			path = WelcomeCard;
 			sourceTree = "<group>";
