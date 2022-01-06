@@ -12,10 +12,10 @@
 		C4C3577526A989C400DEC203 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4C3577326A989C400DEC203 /* Main.storyboard */; };
 		C4C3577726A989C500DEC203 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4C3577626A989C500DEC203 /* Assets.xcassets */; };
 		C4C3577A26A989C500DEC203 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4C3577826A989C500DEC203 /* LaunchScreen.storyboard */; };
-		C4C3578526A9A7A600DEC203 /* Screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = C4C3578226A9A7A600DEC203 /* Screenshot01.png */; };
-		C4C3578626A9A7A600DEC203 /* Screenshot02.png in Resources */ = {isa = PBXBuildFile; fileRef = C4C3578326A9A7A600DEC203 /* Screenshot02.png */; };
-		C4C3578726A9A7A600DEC203 /* Screenshot03.png in Resources */ = {isa = PBXBuildFile; fileRef = C4C3578426A9A7A600DEC203 /* Screenshot03.png */; };
 		C4FD7346278744FF0003100D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4FD7345278744FF0003100D /* ViewController.swift */; };
+		C4FD734A27874F680003100D /* Screenshot03.png in Resources */ = {isa = PBXBuildFile; fileRef = C4FD734727874F680003100D /* Screenshot03.png */; };
+		C4FD734B27874F680003100D /* Screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = C4FD734827874F680003100D /* Screenshot01.png */; };
+		C4FD734C27874F680003100D /* Screenshot02.png in Resources */ = {isa = PBXBuildFile; fileRef = C4FD734927874F680003100D /* Screenshot02.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,10 +26,10 @@
 		C4C3577626A989C500DEC203 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4C3577926A989C500DEC203 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C4C3577B26A989C500DEC203 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C4C3578226A9A7A600DEC203 /* Screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot01.png; sourceTree = "<group>"; };
-		C4C3578326A9A7A600DEC203 /* Screenshot02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot02.png; sourceTree = "<group>"; };
-		C4C3578426A9A7A600DEC203 /* Screenshot03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot03.png; sourceTree = "<group>"; };
 		C4FD7345278744FF0003100D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C4FD734727874F680003100D /* Screenshot03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Screenshot03.png; path = ../../../../Desktop/Screenshot03.png; sourceTree = "<group>"; };
+		C4FD734827874F680003100D /* Screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Screenshot01.png; path = ../../../../Desktop/Screenshot01.png; sourceTree = "<group>"; };
+		C4FD734927874F680003100D /* Screenshot02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Screenshot02.png; path = ../../../../Desktop/Screenshot02.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,9 +77,9 @@
 		C4C3578126A9A71500DEC203 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				C4C3578226A9A7A600DEC203 /* Screenshot01.png */,
-				C4C3578326A9A7A600DEC203 /* Screenshot02.png */,
-				C4C3578426A9A7A600DEC203 /* Screenshot03.png */,
+				C4FD734827874F680003100D /* Screenshot01.png */,
+				C4FD734927874F680003100D /* Screenshot02.png */,
+				C4FD734727874F680003100D /* Screenshot03.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -143,9 +143,9 @@
 			files = (
 				C4C3577A26A989C500DEC203 /* LaunchScreen.storyboard in Resources */,
 				C4C3577726A989C500DEC203 /* Assets.xcassets in Resources */,
-				C4C3578726A9A7A600DEC203 /* Screenshot03.png in Resources */,
-				C4C3578526A9A7A600DEC203 /* Screenshot01.png in Resources */,
-				C4C3578626A9A7A600DEC203 /* Screenshot02.png in Resources */,
+				C4FD734B27874F680003100D /* Screenshot01.png in Resources */,
+				C4FD734C27874F680003100D /* Screenshot02.png in Resources */,
+				C4FD734A27874F680003100D /* Screenshot03.png in Resources */,
 				C4C3577526A989C400DEC203 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
